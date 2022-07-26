@@ -1,7 +1,9 @@
 # OTGW-hc3
 OpenTherm Gateway plugin for Fibaro HC3 made as a QuickApp.
 This plugin will connect directly from the HC3 to the OTGW device over TCP/IP.
-OTGW product: https://otgw.tclcode.com/
+
+- OTGW product: https://otgw.tclcode.com/
+- Fibaro HC3 product: https://www.fibaro.com/nl/products/home-center-3/
 
 The QuickApp will automatically create the following child devices:
 - Temperature device: The actual measured temperature of the Thermostat
