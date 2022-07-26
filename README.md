@@ -19,3 +19,7 @@ Below 2 images will show how to edit the required variables and set them to the 
 <img src="https://github.com/EggensEng/OTGW-hc3/blob/main/images/SetIpPort.png?raw=true">
 
 <img src="https://github.com/EggensEng/OTGW-hc3/blob/main/images/SetIpPort2.png?raw=true">
+
+Check status to see if connection could be established:
+
+<img src="https://github.com/EggensEng/OTGW-hc3/blob/main/images/Status.png?raw=true">
