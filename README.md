@@ -10,7 +10,7 @@ The QuickApp will automatically create the following child devices:
 - Thermostat device: The actual setpoint from the room thermostat is show. Also new setpoint can be set on this device.
 
 ## Installation
-Access the web interface of the Fibaro HC3 and go to setting and then deviced.
+Access the web interface of the Fibaro HC3 and go to setting and then devices.
 Add a new device as shown in the picture below and upload the QuickApp. Use the required file "OtgwCore.fqa".
 
 <img src="https://github.com/EggensEng/OTGW-hc3/blob/main/images/Upload.png?raw=true">
